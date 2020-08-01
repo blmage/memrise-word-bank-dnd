@@ -3,6 +3,9 @@
   Memrise Word Bank Dnd
 </h1>
 
+[![DeepScan grade](https://deepscan.io/api/teams/9459/projects/13145/branches/217116/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9459&pid=13145&bid=217116)
+![ESLint](https://github.com/blmage/memrise-word-bank-dnd/workflows/ESLint/badge.svg)
+
 A minimal browser extension for enabling the **drag'n'drop of words** in the **word-bank answers** on
 [Memrise](https://www.memrise.com).
 
